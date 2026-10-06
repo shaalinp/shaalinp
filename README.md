@@ -15,14 +15,7 @@ I build free AI agents for go-to-market teams.
 
 Nothing to download yet.
 
-One catalog: **[agent-catalog](https://github.com/shaalinp/agent-catalog)**. When the first agent is ready to give away, this is the install:
-
-```bash
-git clone --depth 1 https://github.com/shaalinp/agent-catalog.git /tmp/agent-catalog
-cp -R /tmp/agent-catalog/agents/<id> ~/.claude/skills/<id>
-```
-
-There is no `<id>` to copy today, and there is no Release yet. Don't install anything from that repo until one exists.
+[agent-catalog](https://github.com/shaalinp/agent-catalog)
 
 ## Proof
 
